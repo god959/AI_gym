@@ -1,2 +1,9 @@
 # AI_gym
 ## 健身專版輿情分析(NLP)
+## 步驟
+### 1.爬PTT、Dcard等討論版文章
+### 2.Jieba或中研院斷詞
+### 3.TF-IDF關鍵特徵值萃取
+### 4.LSM降維
+### 5.LDA或K-means分群
+### 6.Word2vec或Fasttext詞向量訓練(關聯分析)
